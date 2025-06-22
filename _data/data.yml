@@ -226,102 +226,70 @@ certifications:
     #   Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
     #   Praesent felis nibh, eleifend id eleifend id, dictum id enim.
     #   Praesent venenatis erat non augue suscipit consectetur.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+  - name: Generative AI for Everyone
+    start: 2025
+    # end:
+    organization: DeepLearning.AI
+    # credentialid: 111-222
+    credentialurl: www.coursera.org/account/accomplishments/records/J0IYVAV83MAX
+    credentialname: See certificate
+    # details: |
+    #   Older certification. Lorem ipsum dolor sit amet, consectetur
+    #   adipiscing elit.
+    #   Nullam eget orci purus. Nullam ultrices neque nibh.
+    #   Aenean fermentum, felis vulputate suscipit accumsan,
+    #   sem enim bibendum augue, sed convallis arcu lacus at dui.
+    #   Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+    #   Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+    #   Praesent venenatis erat non augue suscipit consectetur.
+  - name: Getting Started with Microsoft Excel
+    start: 2024
+    # end:
+    organization: Coursera Project Network
+    # credentialid: 111-222 
+    credentialurl: www.coursera.org/account/accomplishments/records/ZMLC4FGB4ANX
+    credentialname: See certificate
+    # details: |
+    #   Older certification. Lorem ipsum dolor sit amet, consectetur
+    #   adipiscing elit.
+    #   Nullam eget orci purus. Nullam ultrices neque nibh.
+    #   Aenean fermentum, felis vulputate suscipit accumsan,
+    #   sem enim bibendum augue, sed convallis arcu lacus at dui.
+    #   Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+    #   Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+    #   Praesent venenatis erat non augue suscipit consectetur.
+  - name: Using Basic Formulas and Functions in Microsoft Excel
+    start: 2024
+    # end:
+    organization: Coursera Project Network
+    # credentialid: 111-222
+    credentialurl: www.coursera.org/account/accomplishments/records/U5PUEBFFXB34
+    credentialname: See certificate
+    # details: |
+    #   Older certification. Lorem ipsum dolor sit amet, consectetur
+    #   adipiscing elit.
+    #   Nullam eget orci purus. Nullam ultrices neque nibh.
+    #   Aenean fermentum, felis vulputate suscipit accumsan,
+    #   sem enim bibendum augue, sed convallis arcu lacus at dui.
+    #   Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+    #   Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+    #   Praesent venenatis erat non augue suscipit consectetur.
+  # - name: Git learning
+  #   start: 2019
+  #   end:
+  #   organization: Microsoft
+  #   credentialid: 111-222
+  #   credentialurl: www.github.com
+  #   credentialname: Github
+  #   details: |
+  #     Older certification. Lorem ipsum dolor sit amet, consectetur
+  #     adipiscing elit.
+  #     Nullam eget orci purus. Nullam ultrices neque nibh.
+  #     Aenean fermentum, felis vulputate suscipit accumsan,
+  #     sem enim bibendum augue, sed convallis arcu lacus at dui.
+  #     Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+  #     Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+  #     Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
   title: Projects
