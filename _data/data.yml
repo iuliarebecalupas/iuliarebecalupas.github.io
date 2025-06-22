@@ -68,6 +68,26 @@ sidebar:
     - item: Windows Server
       link:
 
+    - item: WSUS
+      link:
+
+    - item: RDP
+      link:
+
+    - item: Office 365
+      link:
+
+
+    - item: Google Workspace
+      link:
+
+    - item: Remote Troubleshooting
+      link:
+
+
+    - item: Python (currently learning)
+      link:
+
 
 career-profile:
   title: Career Profile
