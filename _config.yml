@@ -6,7 +6,7 @@ url: 'https://iuliarebecalupas.github.io'
 
 description: Personal resume and IT learning journey
 
-theme_skin: berry # blue turquoise green berry orange ceramic teal oceanstale
+theme_skin: turquoise # blue turquoise green berry orange ceramic teal oceanstale
 
 # Sass/SCSS
 sass:
