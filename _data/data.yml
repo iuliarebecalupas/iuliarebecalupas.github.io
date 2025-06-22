@@ -4,40 +4,23 @@
 
 sidebar:
   position: left # position of the sidebar : left or right
-<<<<<<< HEAD
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-=======
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
->>>>>>> 118e54d (Update data.yml)
   education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Iulia-Rebeca Lupaș
   tagline: IT Helpdesk Analyst | Technical Support | Troubleshooting & Maintenance
-<<<<<<< HEAD
-  avatar: photo cv.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-=======
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
->>>>>>> 118e54d (Update data.yml)
 
   # Sidebar links
   email: iuliarebecalupas@gmail.com
   phone: +40773323194
-<<<<<<< HEAD
-  timezone: EEST / Bucharest Time (GMT+2) # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: Timisoara, Romania
-  website: # Include the full website URL, including "http://" or "https://".
-  linkedin: [iulialupas](www.linkedin.com/in/iulia-lupas)
-  xing:
-  github:
-=======
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: www.linkedin.com/in/iulia-lupas
   xing: alandoe
   github: jekyll
->>>>>>> 118e54d (Update data.yml)
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -64,17 +47,17 @@ sidebar:
       level: Beginner
 
   interests:
-    title: 
+    title: Interests
     info:
-    - item: 
+    - item: Climbing
       link:
 
 
-    - item: 
+    - item: Snowboarding
       link:
 
 
-    - item: 
+    - item: Cooking
       link:
 
 
