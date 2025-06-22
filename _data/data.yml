@@ -15,12 +15,12 @@ sidebar:
   # Sidebar links
   email: iuliarebecalupas@gmail.com
   phone: +40773323194
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: www.linkedin.com/in/iulia-lupas
-  xing: alandoe
-  github: jekyll
+  timezone: EEST / Bucharest Time (GMT+2) # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Timisoara, Romania
+  website: # Include the full website URL, including "http://" or "https://".
+  linkedin: [iulialupas](www.linkedin.com/in/iulia-lupas)
+  xing:
+  github:
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -47,17 +47,17 @@ sidebar:
       level: Beginner
 
   interests:
-    title: Interests
+    title: 
     info:
-    - item: Climbing
+    - item: 
       link:
 
 
-    - item: Snowboarding
+    - item: 
       link:
 
 
-    - item: Cooking
+    - item: 
       link:
 
 
