@@ -296,9 +296,9 @@ projects:
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
+  - title: Windows Server Infrastructure Lab (Self-Guided Project)
     link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: "Technologies Used: Windows Server 2022, Active Directory, Group Policy, RDP, WSUS, DNS, Hyper-V, Windows 11. Designed and built a Windows-based virtual lab environment from scratch to simulate enterprise IT support and administration tasks. The project was focused on gaining practical experience in Active Directory management, Group Policy Objects (GPOs), system hardening, and patch management."
 
   - title: DevStudio
     link: "#"
