@@ -57,6 +57,17 @@ sidebar:
     - item: Group Policy Objects (GPO)
       link:
 
+    - item: DNS
+      link:
+
+
+    - item: Hyper-V
+      link:
+
+
+    - item: Windows Server
+      link:
+
 
 career-profile:
   title: Career Profile
