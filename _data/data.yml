@@ -3,29 +3,29 @@
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
+  position: left # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Iulia-Rebeca Lupaș
+  tagline: IT Helpdesk Analyst | Technical Support | Troubleshooting & Maintenance
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
+  email: iuliarebecalupas@gmail.com
+  phone: +40773323194
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
+  linkedin: www.linkedin.com/in/iulia-lupas
   xing: alandoe
   github: jekyll
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: # Specify your full Bluesky handle
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,14 +37,14 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Romanian
       level: Native
 
-    - idiom: French
+    - idiom: English
       level: Professional
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: German
+      level: Beginner
 
   interests:
     title: Interests
