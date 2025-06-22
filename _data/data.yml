@@ -41,7 +41,7 @@ sidebar:
       level: Professional
 
     - idiom: German
-      level: Beginner (currently learning)
+      level: Beginner - currently learning
 
   interests:
     title: Skills
@@ -131,43 +131,43 @@ career-profile:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Technical Support Specialist
+    time: July 2024 - Present
+    company: StarTech Team
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Remote: Client - BRD Société Générale Romania
+        - Provide remote first-line IT support for several thousand users across the client’s enterprise environment.
+        - Troubleshoot issues related to systems, applications, and hardware, ensuring daily resolution of approximately 50 support tickets.
+        - Manage user accounts and permissions using Active Directory and Microsoft 365 (account setup, password resets, and access control).
+        - Support VPN configuration and troubleshooting, especially with Cisco AnyConnect Secure Mobility Client and Cisco Identity Services Engine.
+        - Work within a Citrix environment, resolving connectivity issues and virtual desktop/application problems.
+        - Handle digital certificate maintenance and configuration to ensure security compliance.
+        - Diagnose and resolve peripheral hardware issues (keyboards, mice, headsets, printers); perform remote installations and printer setups.
+        - Use CA Service Desk Manager (CA SDM) to prioritize, track, and resolve incidents efficiently, escalating complex issues when required.
+        - Focused on delivering timely, effective support to minimize downtime and maintain high user satisfaction.
+
+  # - role: Senior Software Engineer
+  #   time: 2014 - 2015
+  #   company: Google, London
+  #   details: |
+  #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+  #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+  #     Cum sociis natoque penatibus et magnis dis parturient montes,
+  #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  #     pellentesque eu, pretium quis, sem.
+  #       - Bullet point
+  #       - Bullet point
+  # - role: UI Developer
+  #   time: 2012 - 2014
+  #   company: Amazon, London
+  #   details: |
+  #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+  #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+  #     Cum sociis natoque penatibus et magnis dis parturient montes,
+  #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  #     pellentesque eu, pretium quis, sem.
+  #       - Bullet point
+  #       - Bullet point
 
 certifications:
   title: Certifications
