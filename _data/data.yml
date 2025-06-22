@@ -294,10 +294,10 @@ certifications:
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
   - title: Windows Server Infrastructure Lab (Self-Guided Project)
-    link: "#hook"
+    link: "www.linkedin.com/learning/certificates/407024309d8af7b504ff6c9e1a023e4c6ce30f94bfc51995a1c489046f76877b?"
     tagline: "Technologies Used: Windows Server 2022, Active Directory, Group Policy, RDP, WSUS, DNS, Hyper-V, Windows 11. Designed and built a Windows-based virtual lab environment from scratch to simulate enterprise IT support and administration tasks. The project was focused on gaining practical experience in Active Directory management, Group Policy Objects (GPOs), system hardening, and patch management."
 
   - title: DevStudio
