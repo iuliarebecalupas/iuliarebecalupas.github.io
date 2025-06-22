@@ -41,11 +41,22 @@ sidebar:
       level: Professional
 
     - idiom: German
-      level: Beginner
+      level: Beginner (currently learning)
 
-  interests:
-    title: Interests
+  skills:
+    title: Skills
     info:
+    - item: Climbing
+      link:
+
+
+    - item: Snowboarding
+      link:
+
+
+    - item: Cooking
+      link:
+
     - item: Climbing
       link:
 
