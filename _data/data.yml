@@ -193,6 +193,119 @@ certifications:
     #   fringilla vel. Ut euismod, sem sed vulputate venenatis,
     #   justo diam viverra velit, sed rhoncus leo leo eu justo.
     #   Suspendisse placerat risus ante, sed porta nisi blandit at.
+  - name: Learning DNS
+    start: 2025
+    # end:
+    organization: Linkedin Learning
+    # credentialid: 111-222
+    credentialurl: www.linkedin.com/learning/certificates/407024309d8af7b504ff6c9e1a023e4c6ce30f94bfc51995a1c489046f76877b?
+    credentialname: See certificate
+    # details: |
+    #   Older certification. Lorem ipsum dolor sit amet, consectetur
+    #   adipiscing elit.
+    #   Nullam eget orci purus. Nullam ultrices neque nibh.
+    #   Aenean fermentum, felis vulputate suscipit accumsan,
+    #   sem enim bibendum augue, sed convallis arcu lacus at dui.
+    #   Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+    #   Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+    #   Praesent venenatis erat non augue suscipit consectetur.
+
+  - name: CompTIA IT Fundamentals+
+    start: 2024
+    end: 2027
+    organization: CompTIA
+    credentialid: 1EJY3QXREJE11X3D
+    credentialurl: verify.comptia.org/
+    credentialname: See certificate
+    # details: |
+    #   Older certification. Lorem ipsum dolor sit amet, consectetur
+    #   adipiscing elit.
+    #   Nullam eget orci purus. Nullam ultrices neque nibh.
+    #   Aenean fermentum, felis vulputate suscipit accumsan,
+    #   sem enim bibendum augue, sed convallis arcu lacus at dui.
+    #   Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+    #   Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+    #   Praesent venenatis erat non augue suscipit consectetur.
+  - name: Git learning
+    start: 2019
+    end:
+    organization: Microsoft
+    credentialid: 111-222
+    credentialurl: www.github.com
+    credentialname: Github
+    details: |
+      Older certification. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit.
+      Nullam eget orci purus. Nullam ultrices neque nibh.
+      Aenean fermentum, felis vulputate suscipit accumsan,
+      sem enim bibendum augue, sed convallis arcu lacus at dui.
+      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      Praesent venenatis erat non augue suscipit consectetur.
+  - name: Git learning
+    start: 2019
+    end:
+    organization: Microsoft
+    credentialid: 111-222
+    credentialurl: www.github.com
+    credentialname: Github
+    details: |
+      Older certification. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit.
+      Nullam eget orci purus. Nullam ultrices neque nibh.
+      Aenean fermentum, felis vulputate suscipit accumsan,
+      sem enim bibendum augue, sed convallis arcu lacus at dui.
+      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      Praesent venenatis erat non augue suscipit consectetur.
+  - name: Git learning
+    start: 2019
+    end:
+    organization: Microsoft
+    credentialid: 111-222
+    credentialurl: www.github.com
+    credentialname: Github
+    details: |
+      Older certification. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit.
+      Nullam eget orci purus. Nullam ultrices neque nibh.
+      Aenean fermentum, felis vulputate suscipit accumsan,
+      sem enim bibendum augue, sed convallis arcu lacus at dui.
+      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      Praesent venenatis erat non augue suscipit consectetur.
+  - name: Git learning
+    start: 2019
+    end:
+    organization: Microsoft
+    credentialid: 111-222
+    credentialurl: www.github.com
+    credentialname: Github
+    details: |
+      Older certification. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit.
+      Nullam eget orci purus. Nullam ultrices neque nibh.
+      Aenean fermentum, felis vulputate suscipit accumsan,
+      sem enim bibendum augue, sed convallis arcu lacus at dui.
+      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      Praesent venenatis erat non augue suscipit consectetur.
+  - name: Git learning
+    start: 2019
+    end:
+    organization: Microsoft
+    credentialid: 111-222
+    credentialurl: www.github.com
+    credentialname: Github
+    details: |
+      Older certification. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit.
+      Nullam eget orci purus. Nullam ultrices neque nibh.
+      Aenean fermentum, felis vulputate suscipit accumsan,
+      sem enim bibendum augue, sed convallis arcu lacus at dui.
+      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      Praesent venenatis erat non augue suscipit consectetur.
   - name: Git learning
     start: 2019
     end:
