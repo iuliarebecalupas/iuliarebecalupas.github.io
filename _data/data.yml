@@ -92,12 +92,16 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I'm a Technical Support Specialist providing remote support for a large enterprise client, resolving 50+ technical issues daily across hardware, software, and system access. As the primary point of contact for end users, I've developed strong troubleshooting, research, and communication skills—especially in translating complex problems into clear, actionable solutions for non-technical audiences.
+
+    My experience spans across both software and hardware troubleshooting, including resolving peripheral malfunctions, connectivity issues, and device-level diagnostics alongside access rights and application-level errors.
+
+    Beyond my core role, I'm proactively building hands-on skills in Windows Server environments. I've set up a home Active Directory lab where I've configured Group Policy Objects (GPOs), created and managed Organizational Units (OUs), deployed user-specific desktop settings, and implemented WSUS for controlled patch management. These projects are helping me move beyond reactive troubleshooting into a more structured understanding of domain infrastructure and system administration tasks.
+
+    I'm also learning Python and SQL (as a data manipulation language) to better understand how scripting and database interactions can streamline IT workflows. I have a growing interest in how emerging technologies—especially AI and machine learning—can enhance support efficiency and reshape traditional IT roles.
+
+    Curiosity and fast learning are my strongest assets. I enjoy building practical experience and continuously evolving toward more technical, creative, and future-focused roles.
+
 education:
   title: Education
   info:
