@@ -19,7 +19,7 @@ sidebar:
   linkedin: iulia-lupas
   # github: 
   telegram: # add your nickname without '@' sign
-  gitlab:
+  gitlab: https://github.com/iuliarebecalupas
   bitbucket:
   bluesky: # Specify your full Bluesky handle
   twitter:
@@ -331,17 +331,17 @@ projects:
 #     link: "#"
 #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# publications:
-#   title: Publications
-#   intro: |
-#     You can list your publications in this section. Lorem ipsum dolor sit
-#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#     bibendum fringilla a eu lectus.
-#   papers:
-#   - title: The Art of Computer Programming
-#     link: "#"
-#     authors: Donald E. Knuth
-#     conference: Addison-Wesley, 1968
+publications:
+  title: Publications
+  # intro: |
+  #   You can list your publications in this section. Lorem ipsum dolor sit
+  #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+  #   bibendum fringilla a eu lectus.
+  papers:
+  - title: My SQL Journey
+    link: "https://iuliarebecalupas.github.io/sql-journey/"
+    authors: Self-published
+    # conference: Addison-Wesley, 1968
 
 #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #     link: "#"
